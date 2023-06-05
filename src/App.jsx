@@ -15,8 +15,8 @@ function App() {
 
   return (
     <div
-      className={`relative pt-5 w-fit ${
-        bgColor === true ? "bg-white" : "bg-[#F88379]"
+      className={`relative pt-5 overflow-hidden ${
+        bgColor === true ? "bg-white" : "bg-[#eabbcf]"
       } transition-all duration-700 ease-in-out`}
     >
       <Home handleHover={handleHover} handleHoverOut={handleHoverOut} />
