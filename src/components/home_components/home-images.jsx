@@ -19,7 +19,7 @@ export const HomeImages = () => {
               className="m-5 text-center w-[350px] h-[350px] hover:scale-110 transition-all"
             >
               <img
-                className="object-cover w-full h-full"
+                className="object-cover w-full h-full shadow-md rounded-3xl"
                 src={image}
                 alt={`Image ${index}`}
               />

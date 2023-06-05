@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div
-      className={`relative pt-10 w-fit ${
+      className={`relative pt-5 w-fit ${
         bgColor === true ? "bg-white" : "bg-[#F88379]"
       } transition-all duration-700 ease-in-out`}
     >
