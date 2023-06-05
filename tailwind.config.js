@@ -6,6 +6,7 @@ export default {
       fontFamily: {
         coming: ["Coming Soon", "cursive"],
         loveya: ["Love Ya Like A Sister", " cursive"],
+        patrick: ["Patrick Hand SC", " cursive"],
       },
     },
   },

@@ -16,7 +16,7 @@ function App() {
   return (
     <div
       className={`relative pt-10 w-fit ${
-        bgColor === true ? "bg-white" : "bg-pink-600"
+        bgColor === true ? "bg-white" : "bg-[#F88379]"
       } transition-all duration-700 ease-in-out`}
     >
       <Home handleHover={handleHover} handleHoverOut={handleHoverOut} />
