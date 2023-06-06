@@ -11,7 +11,7 @@ const ContentMessagesData = [
     id: 2,
     name: "Joshua",
     nickname: "Third Wheel",
-    teaser: "Hi sis hahaha",
+    teaser: "Buksan mo sis",
     message:
       "happy 21st birthday sis more birthday to come sana maging masaya ka palagi ma aachieve mo goals mo with ian at sana mas maraming pang memories na kasama ko kayo ni ian  again happy birthday sis",
   },

@@ -22,6 +22,7 @@ export const HomeImages = () => {
                 className="object-cover w-full h-full shadow-md rounded-3xl"
                 src={image}
                 alt={`Image ${index}`}
+                loading="lazy"
               />
             </li>
           ))}

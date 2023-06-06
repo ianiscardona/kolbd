@@ -20,8 +20,11 @@ export const Home = ({ handleHover, handleHoverOut }) => {
 
   return (
     <div className="relative pb-5 flex flex-col items-center h-screen w-full">
+      <h1 className="font-patrick text-4xl text-black text-center">
+        Happy Birthday
+      </h1>
       <h1 className="mb-3 font-patrick text-5xl text-black text-center">
-        Happy Birthday Colleen Merhan!
+        Colleen Merhan!
       </h1>
       <div
         className="mb-5"
