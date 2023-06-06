@@ -2,11 +2,11 @@ import Marquee from "react-fast-marquee";
 
 export const HomeImages = () => {
   const images = [
-    "/images/homeheroimages/kolbd-1.png",
-    "/images/homeheroimages/kolbd-2.png",
-    "/images/homeheroimages/kolbd-3.png",
-    "/images/homeheroimages/kolbd-4.png",
-    "/images/homeheroimages/kolbd-5.png",
+    "/images/homeheroimages/kolbd-1.jpg",
+    "/images/homeheroimages/kolbd-2.jpg",
+    "/images/homeheroimages/kolbd-3.jpg",
+    "/images/homeheroimages/kolbd-4.jpg",
+    "/images/homeheroimages/kolbd-5.jpg",
   ];
 
   return (
