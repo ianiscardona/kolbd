@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { ContentMessages } from "./pages/content-messages";
 import { Home } from "./pages/home";
+import { Remarks } from "./pages/remarks";
 
 function App() {
   const [bgColor, setBgColor] = useState(true);
@@ -21,6 +22,7 @@ function App() {
     >
       <Home handleHover={handleHover} handleHoverOut={handleHoverOut} />
       <ContentMessages />
+      <Remarks />
     </div>
   );
 }
