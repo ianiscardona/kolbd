@@ -16,7 +16,7 @@ export const HomeImages = () => {
           {images.map((image, index) => (
             <li
               key={index}
-              className="m-5 text-center w-[350px] h-[350px] border rounded-3xl border-gray-900 hover:scale-110 transition-all"
+              className="m-5 text-center w-[300px] h-[300px] border rounded-3xl border-gray-900 hover:scale-110 transition-all"
             >
               <img
                 className="object-cover w-full h-full shadow-md rounded-3xl"
