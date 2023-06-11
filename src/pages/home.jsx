@@ -24,7 +24,7 @@ export const Home = ({ handleHover, handleHoverOut }) => {
       <h1 className="mb-2 font-coming text-3xl text-black text-center">
         Happy Birthday
       </h1>
-      <h1 className="mb-3 font-coming font-bold text-5xl text-black text-center">
+      <h1 className="font-coming font-bold text-5xl text-black text-center">
         Colleen Merhan!
       </h1>
       <div
