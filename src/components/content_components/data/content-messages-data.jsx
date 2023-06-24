@@ -177,7 +177,7 @@ const ContentMessagesData = [
   {
     id: 24,
     name: "Gwenny",
-    nickname: "Tanggera",
+    nickname: "",
     teaser: "Happy birthday to you!",
     message:
       "Colleen! Happy birthday! 🎊🎉🎁 Alam mo ba ako pinaka mabait sa amin lahat, huwag ka magalala. pag nagkita tayo iseseminar kita lalo maging mabait. Enjoy and welcome sa tropahan! 💛💛💛",
